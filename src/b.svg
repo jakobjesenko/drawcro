@@ -1,0 +1,9 @@
+<@def box x="40">
+    <rect data="nice" />
+</@def>
+<svg viewport>
+    <rect />
+    <rect />
+    <@ box></@>
+    <@ box></@>
+</svg>
